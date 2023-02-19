@@ -2,20 +2,15 @@
   
   ![header](https://capsule-render.vercel.app/api?type=Waving&color=d9ead3&text=HELLO)
   
-    👋 Hi, I’m @eil-you
+  <br/>
+:blush:eil-you
+<br/><br/>
+  :mailbox:qldirl123@gmail.com
   
-    👀 I’m interested in ... food. trip, country...
-  
-    🌱 I’m currently learning ... java 
-  
-    💞️ I’m looking to collaborate on ... 
-  
-    📫 How to reach me qldirl123@gmail.com
-  
-    
+
   <br/><br/>
   
-  skill
+  :bear:Stack
   
   <img src="https://img.shields.io/badge/java-blue?style=flat"/>&nbsp;
   <img src="https://img.shields.io/badge/Spring Boot-white?style=flat&logo=Spring Boot&logoColor=6DB33F"/>&nbsp;
