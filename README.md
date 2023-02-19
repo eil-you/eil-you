@@ -11,6 +11,13 @@
     💞️ I’m looking to collaborate on ... 
   
     📫 How to reach me qldirl123@gamil.com
+  
+  
+
+  
+  <img src="https://img.shields.io/badge/Spring Boot-white?style=flat&logo=Spring Boot&logoColor=6DB33F"/>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eil-you&show_icons=true&theme=radical)
 
 </div>
 
