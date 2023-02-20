@@ -3,7 +3,7 @@
   ![header](https://capsule-render.vercel.app/api?type=Waving&color=d9ead3&text=HELLO)
   
   <br/>
-:blush:eil-you
+  :rabbit:eil-you
 <br/><br/>
   :mailbox:qldirl123@gmail.com
   
