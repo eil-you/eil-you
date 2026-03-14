@@ -1,7 +1,7 @@
 # HELLO 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0056B3&height=200&section=header&text=Yubin%20Cho&fontSize=90" />
+  <img src="https://img.shields.io/badge/Yubin%20Cho-0056B3?style=for-the-badge&logo=spring&logoColor=white" height="40">
 </div>
 
 ## 🐰 About Me
